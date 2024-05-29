@@ -25,7 +25,7 @@ To run this program, ensure that you have the following installed on your system
 1. Clone this repository to your local machine:
 
    ```sh
-   git clone git@git.epam.com:Igor_Strakhov/swiss-re-challenge.git
+   git clone https://github.com/kanonier14/swiss-re-code-challenge
     ```
    
 2. Build the project using the following command:
